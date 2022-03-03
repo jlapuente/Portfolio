@@ -1,0 +1,44 @@
+{
+  "fullName": "Javier Lapuente Garcia",
+  "age": "22",
+  "img": "../../assets/img/127764241_118722443275927_6640381549792934489_n.jpg",
+  "profileImg": "../../assets/img/74599494_976506172684919_6208818483838551945_n.jpg",
+  "job": "Programador en DXD APLICATIONS & IT SOLUTIONS SL",
+  "personality": "Soy un chico proactivo",
+  "workExperience": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin mauris mauris, ultrices ut ex eget, consequat laoreet purus. Aliquam quis nunc a risus vehicula fringilla at ut odio. Maecenas fermentum purus vitae lectus facilisis accumsan. Aenean sit amet lorem dignissim, finibus lorem quis, mattis lectus. Vestibulum eget dolor iaculis, imperdiet erat sed, euismod sem. Donec vel faucibus urna. Integer malesuada ligula quis augue porttitor, at luctus augue aliquet. Fusce eu accumsan lorem, sit amet porta tellus. Nulla fringilla turpis id mi lacinia, nec maximus nisi euismod. Phasellus finibus libero a dictum hendrerit. Sed iaculis lorem ac elementum suscipit. Praesent orci magna, aliquam a est vestibulum, sagittis tincidunt leo. Suspendisse egestas cursus laoreet. Quisque rhoncus metus at justo imperdiet malesuada. In hac habitasse platea dictumst. Suspendisse at tristique lacus, vitae facilisis urna. Ut facilisis eu metus et maximus. Ut varius consectetur urna, ut porta lacus convallis ac. Vivamus blandit felis maximus neque viverra condimentum at sed mauris. Praesent quis lobortis tellus. Maecenas euismod eros mollis turpis tempor, in lacinia nunc elementum. Pellentesque viverra vel nulla sed iaculis. Integer malesuada purus ante, ac ultricies mauris molestie sed. Vivamus nec nibh magna.", 
+  "estudies": "",
+  "city": "Zaragoza, España",
+  "occupancy": "20%",
+  "role": "Programador",
+  "socialNetwork": "@batidoDoreo",
+  "attributes": [
+    {
+      "name": "Front",
+      "value": "40%",
+      "class": "bg-red"
+    },
+    {
+      "name": "Back",
+      "value": "40%",
+      "class": "bg-blue"
+    },
+    {
+      "name": "UI/UX",
+      "value": "40%",
+      "class": "bg-yellow"
+    },
+    {
+      "name": "Java",
+      "value": "40%",
+      "class": "bg-green"
+    },
+    {
+      "name": "Python",
+      "value": "40%",
+      "class": "bg-purple"
+    }
+  ],
+  "skills": [
+    "Angular", "Ionic", "Electron", "HTML & JSP", "Javascript", "Jquery", "Chartjs", "Bootstrap", "Material design", "Primeng", "Java", "Python", "Servicios Rest", "AWS"
+  ]
+}
